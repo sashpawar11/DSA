@@ -57,6 +57,9 @@ public class Collections_ArrayList {
         System.out.println(in.contains(9));
 
 
+        // To clear all elements from the arraylist
+        listTwo.clear();
+
         // --------------------------------------------------------------------------
         // Iterating in ArrayList
 
