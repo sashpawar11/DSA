@@ -25,7 +25,7 @@ public class Collections_PriorityQueue {
         System.out.println(pq);   // implements minHeap --> takes the smallest element and sorts accordingly
 
 
-        pq.poll();
+        pq.poll();      // removes element from start
         System.out.println(pq);
 
         System.out.println(pq.peek());
